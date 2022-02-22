@@ -3,7 +3,7 @@
 
 --------------
 
-The rules of the game are similar to the rules of "Bulls and Cows" game.
+The rules of the game are simple.
 1. Choose a number of desired  guesses(4 up 10) by clicking the ***"Number of chances:"*** button and then press ***"Start"***.
 <p align="center">
   <img src="https://github.com/Neophyte96/bulls-and-cows/blob/main/Screenshots/Screen1.png"/>
